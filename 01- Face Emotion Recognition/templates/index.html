@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facial Emotion Recognition</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Reset and font */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+        }
+
+        h1 {
+            margin-top: 30px;
+            font-size: 3rem;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+        }
+
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 6px rgba(0,0,0,0.3);
+        }
+
+        .video-card {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            display: inline-block;
+        }
+
+        img {
+            border-radius: 15px;
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <h1>Facial Emotion Recognition</h1>
+    <p>Real-time emotion detection powered by your webcam</p>
+    <div class="video-card">
+        <img src="{{ url_for('video') }}" alt="Live Camera Stream">
+    </div>
+    <footer>
+        &copy; 2025 Muhammad Aamir | Powered by TensorFlow & Flask
+    </footer>
+</body>
+</html>
