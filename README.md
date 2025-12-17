@@ -1,4 +1,4 @@
-# 🚀 AI/ML Portfolio - 15 Projects
+# 🚀 AI/ML Portfolio - 2025
 
 A comprehensive collection of Machine Learning, Deep Learning, and AI projects demonstrating practical applications across multiple domains.
 
