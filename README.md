@@ -9,7 +9,7 @@ A comprehensive collection of Machine Learning, Deep Learning, and AI projects d
 
 ## 👨‍💻 About Me
 
-[Your Name] | Data Science & AI Enthusiast | [Your Location]
+Muhammad Aamir | Data Science & AI Enthusiast 
 
 **Skills:** Machine Learning • Deep Learning • NLP • Computer Vision • Python • TensorFlow • Scikit-learn • Streamlit
 
@@ -99,7 +99,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-[Add a collage of project screenshots]
+
 
 ## 🎯 Key Features
 
@@ -109,31 +109,5 @@ streamlit run app.py
 ✅ Model evaluation & visualization
 ✅ Production-ready code
 ✅ Comprehensive documentation
-
-## 📈 Future Improvements
-
-- [ ] Deploy projects on cloud platforms
-- [ ] Add more advanced models
-- [ ] Create REST APIs
-- [ ] Build mobile applications
-- [ ] Add unit tests
-
-## 📫 Contact
-
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
-- **Portfolio:** [Your Website]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Datasets from Kaggle, UCI ML Repository
-- Inspiration from real-world problems
-- Pakistan mental health resources for chatbot project
-
----
 
 ⭐ **If you found this helpful, please star this repository!**
