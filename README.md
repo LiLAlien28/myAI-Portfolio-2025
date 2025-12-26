@@ -26,7 +26,6 @@ Muhammad Aamir | Data Science & AI Enthusiast
 7. **[Named Entity Recognition](./07-Named-Entity-Recognition/)** - Extract entities (names, locations, dates) from text
 
 ### 🧬 Biotechnology & Genomics
-8. **[DNA Sequence Classifier](./06-DNA-Sequence-Classifier/)** - Gene family classification using ML
 
 ### 🖼️ Computer Vision
 9. **[Face Emotion Detection](./02-Face-Emotion-Detection/)** - Real-time emotion recognition from webcam
