@@ -1,0 +1,13 @@
+{
+  "title": "FYP: Safe Mental Health Chatbot",
+  "sdk": "gradio",
+  "hf_oauth": false,
+  "hf_token": false,
+  "api_routes": [],
+  "models": [],
+  "components": {
+    "safe_mode": true,
+    "no_external_calls": true,
+    "local_processing_only": true
+  }
+}
