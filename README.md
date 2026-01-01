@@ -1,12 +1,3 @@
-Perfect move 👍 — **renaming to `ai-practice-2025` + archiving** is exactly the right call.
-Now let’s **fix the README so it honestly reflects what this repo is** and looks professional (not misleading, not over-marketed).
-
-Below is a **clean, corrected, recruiter-safe README**, updated according to your screenshot and intent.
-
-You can **copy–paste this directly** into `README.md`.
-
----
-
 # 🧠 AI Practice Projects – 2025
 
 This repository contains a **collection of practice and learning projects** developed during 2025 while studying and experimenting with **Machine Learning, Deep Learning, NLP, and Computer Vision**.
