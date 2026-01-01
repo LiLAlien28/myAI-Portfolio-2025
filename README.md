@@ -1,109 +1,156 @@
-# 🚀 AI/ML Portfolio - 2025
+Perfect move 👍 — **renaming to `ai-practice-2025` + archiving** is exactly the right call.
+Now let’s **fix the README so it honestly reflects what this repo is** and looks professional (not misleading, not over-marketed).
 
-A comprehensive collection of Machine Learning, Deep Learning, and AI projects demonstrating practical applications across multiple domains.
+Below is a **clean, corrected, recruiter-safe README**, updated according to your screenshot and intent.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-yellow.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)
+You can **copy–paste this directly** into `README.md`.
+
+---
+
+# 🧠 AI Practice Projects – 2025
+
+This repository contains a **collection of practice and learning projects** developed during 2025 while studying and experimenting with **Machine Learning, Deep Learning, NLP, and Computer Vision**.
+
+> ⚠️ **Note:**
+> This is an **archived practice repository**.
+> Selected and polished projects are showcased separately in my main portfolio:
+> 👉 **[https://github.com/LiLAlien28/ai-portfolio](https://github.com/LiLAlien28/ai-portfolio)**
+
+---
 
 ## 👨‍💻 About Me
 
-Muhammad Aamir | Data Science & AI Enthusiast 
+**Muhammad Aamir**
+BS Data Science Student | AI & Machine Learning Enthusiast
 
-**Skills:** Machine Learning • Deep Learning • NLP • Computer Vision • Python • TensorFlow • Scikit-learn • Streamlit
+**Skills:**
+Machine Learning • Deep Learning • NLP • Computer Vision • Python • TensorFlow • Scikit-learn • Streamlit • Gradio
 
-## 📂 Projects Overview
+---
+
+## 📂 Projects Included (Practice & Learning)
 
 ### 🏥 Healthcare & Wellness
-1. **[Diabetes Prediction System]([./01-Diabetes-Prediction/](https://github.com/LiLAlien28/myAI-Portfolio-2025/tree/main/02-%20Diabetes%20Prediction%20System))** - RandomForest classifier predicting diabetes risk
-3. **[BMI Calculator with Health Recommendations](./14-BMI-Calculator/)** - Health metrics & personalized advice
-4. **[Mental Health Chatbot](./10-Mental-Health-Chatbot/)** - AI-powered emotional support with emotion detection
+
+1. **Diabetes Prediction System**
+   Random Forest–based model to predict diabetes risk from health indicators.
+
+2. **BMI Calculator**
+   Body Mass Index calculator with basic health insights.
+
+3. **Mental Health Chatbot**
+   NLP-based chatbot for emotion-aware conversational responses.
+
+---
 
 ### 🤖 Natural Language Processing
-5. **[SMS Spam Detector](./03-SMS-Spam-Detector/)** - Logistic Regression spam classification
-6. **[Sentiment Analysis](./04-Sentiment-Analysis/)** - Product review sentiment classifier (Positive/Negative/Neutral)
-7. **[Named Entity Recognition](./07-Named-Entity-Recognition/)** - Extract entities (names, locations, dates) from text
+
+4. **SMS Spam Detector**
+   Binary classification of SMS messages using classical ML techniques.
+
+5. **Sentiment Analysis for Product Reviews**
+   Classifies user reviews into sentiment categories.
+
+6. **Named Entity Recognition (NER)**
+   Extracts entities such as names, locations, and dates from text.
+
+---
 
 ### 🖼️ Computer Vision
-9. **[Face Emotion Detection](./02-Face-Emotion-Detection/)** - Real-time emotion recognition from webcam
-10. **[Handwritten Digit Recognition](./05-Handwritten-Digit-Recognition/)** - MNIST CNN classifier
+
+7. **Face Emotion Recognition**
+   Real-time facial emotion detection using a webcam.
+
+8. **Handwritten Digit Recognition (MNIST)**
+   CNN-based digit classifier trained on the MNIST dataset.
+
+---
 
 ### 📊 Economics & Finance
-11. **[Economic Recession Predictor](./08-Economic-Recession-Predictor/)** - Predict economic downturns using macro indicators
+
+9. **Economic Recession Predictor**
+   Predicts potential recessions using macroeconomic indicators.
+
+---
 
 ### 🎓 Education
-12. **[Student Grade Predictor](./09-Student-Grade-Predictor/)** - Linear & Polynomial regression for grade prediction
 
-### 💼 Business & Real Estate
-13. **[House Price Prediction](./12-House-Price-Prediction/)** - Real estate price forecasting
-14. **[Laptop Price Recommendation](./13-Laptop-Price-Recommendation/)** - Tech product pricing model
+10. **Student Grade Predictor**
+    Regression-based model for predicting student performance.
 
-### 🎬 Entertainment
-15. **[Movie Recommendation System](./15-Movie-Recommendation/)** - Collaborative filtering recommendation engine
+---
+
+### 🧪 Science & Research-Oriented
+
+11. **PlasticZyme Zero-Shot Predictor**
+    Experimental project exploring zero-shot learning for plastic-degrading enzymes.
+
+12. **Antibiotic Resistance Predictor**
+    ML-based prediction of antibiotic resistance patterns.
+
+---
+
+### 💼 Miscellaneous
+
+13. **Emotion Sensing Chatbot**
+    Chatbot combining sentiment and emotion detection.
+
+---
 
 ## 🛠️ Technologies Used
 
-**Languages:** Python
+**Programming Language**
 
-**ML/DL Frameworks:**
-- TensorFlow/Keras
-- Scikit-learn
-- PyTorch (if applicable)
-- spaCy
+* Python
 
-**Data Processing:**
-- Pandas
-- NumPy
-- Matplotlib/Seaborn
+**Machine Learning / Deep Learning**
 
-**Deployment:**
-- Streamlit
-- Gradio
+* TensorFlow / Keras
+* Scikit-learn
+* Basic PyTorch (limited use)
+* spaCy
 
-**Others:**
-- OpenCV
-- NLTK
-- Joblib
+**Data Processing & Visualization**
 
-## 📊 Project Statistics
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
 
-- **Total Projects:** 15
-- **Domains Covered:** 7+ (Healthcare, NLP, Computer Vision, Economics, Education, Business, Entertainment)
-- **ML Algorithms:** 10+ (RandomForest, SVM, CNN, LSTM, Logistic Regression, etc.)
-- **Total Lines of Code:** 5000+
+**Deployment & Interfaces**
 
-## 🚀 How to Run
+* Streamlit
+* Gradio
 
-### Prerequisites
-```bash
-python 3.8+
-pip install -r requirements.txt
-```
+**Other Tools**
 
-### Running a Project
-```bash
-# Navigate to project folder
-cd 01-Diabetes-Prediction
+* OpenCV
+* NLTK
+* Joblib
 
-# Install dependencies
-pip install -r requirements.txt
+---
 
-# Run the app
-streamlit run app.py
-```
+## 📌 Purpose of This Repository
 
-## 📸 Screenshots
+* Practice ML & DL concepts
+* Experiment with different domains
+* Build foundational intuition
+* Prepare for advanced, production-grade projects
 
+> 🚀 **For polished, end-to-end, and deployable projects, please visit:**
+> 👉 **[https://github.com/LiLAlien28/ai-portfolio](https://github.com/LiLAlien28/ai-portfolio)**
 
+---
 
-## 🎯 Key Features
+## 📦 Repository Status
 
-✅ End-to-end ML pipeline implementation
-✅ Real-world datasets
-✅ Interactive web interfaces
-✅ Model evaluation & visualization
-✅ Production-ready code
-✅ Comprehensive documentation
+📁 **Archived** – maintained for reference and learning history
+✅ Projects preserved
+❌ Not actively updated
 
-⭐ **If you found this helpful, please star this repository!**
+---
+
+### ⭐ Final Note
+
+This repository represents my **learning journey**, while my **main portfolio** represents my **professional work**.
+
+Just tell me the number.
